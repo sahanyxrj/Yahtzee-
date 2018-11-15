@@ -1,0 +1,16 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/BA23F968-64D5-40FD-948F-369FF2B7C8D3/d/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=63474:/private/var/folders/_h/9q_7kp7157x92st4z5_n1z0w0000gn/T/AppTranslocation/BA23F968-64D5-40FD-948F-369FF2B7C8D3/d/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/Sahany/IdeaProjects/Yahtzee/out/production/Yahtzee Main
+Aces            0
+Twos            6
+Threes          3
+Fours           0
+Fives           0
+Sixes           18
+3 of a Kind     23
+4 of a Kind     0
+Full House      0
+Small Straight  0
+Large Straight  0
+Yahtzee         0
+Chance          23
+
+Process finished with exit code 0
